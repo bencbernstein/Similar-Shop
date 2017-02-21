@@ -1,0 +1,6 @@
+framework module Pods_Face_Mood {
+  umbrella header "Pods-Face Mood-umbrella.h"
+
+  export *
+  module * { export * }
+}
